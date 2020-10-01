@@ -1,6 +1,6 @@
 ## Multilinear Face Model Fitting
 
-The provided program loads a multilinear face model described in the [scientific publication (CVIU 2015)](https://drive.google.com/open?id=1hM1RvmYhj-Rdp6WYgbsLzaWQSvg2jgFf) and fits this model to a point cloud or a triangle mesh.
+The provided program loads a multilinear face model described in the scientific publications [(CVIU 2015)](https://drive.google.com/open?id=1hM1RvmYhj-Rdp6WYgbsLzaWQSvg2jgFf) and [3DV 2013](https://drive.google.com/file/d/1bssnqCTVoxNlvmkkL1uwpJ-OF3JH0-d9/view) and fits this model to a point cloud or a triangle mesh.
 
 <p align="center"> 
 <img src="img/multilinear.png" width="70%">
