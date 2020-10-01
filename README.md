@@ -20,7 +20,7 @@ To setup the provided code, use CMake and specify the required ITK, Clapack and 
 To run the program, the MM_Restricted.exe must be called with following 6 parameters, separated by a blank.
 * Model.rmm - full path of the used multilinear model. This parameter should point to the All 30 7.rmm.
 * templateMesh.off - full path of the training data template mesh, needed for the mesh structure of the result. This parameter should point to the MeanFace.off.
-* templateLmks.txt - full path of a text file including the landmark (x y z)-coordinates of the template mesh, the first 8 landmarks are used to compute a rigid alignment. This parameter should point to the All Lmks.txt.
+* templateLmks.txt - full path of a text file including the landmark (x y z)-coordinates of the template mesh, the first 8 landmarks are used to compute a rigid alignment. This parameter should point to the All_Lmks.txt.
 * targetData.off - full path of the fitting target point cloud or triangle mesh.
 * targetLmks.txt - full path of a text file including the landmark (x y z)-coordinates of the target face mesh, the first 8 landmarks are used to compute the rigid alignment.
 * outFitting.off - full path of the fitting result file.
